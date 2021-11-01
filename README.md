@@ -1,4 +1,4 @@
 # CHATBOT
 CHATBOT AI
 
-Collaborators
+Collaborators: Omar, Leon, Ahmad.
